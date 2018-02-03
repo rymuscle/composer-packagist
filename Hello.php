@@ -1,4 +1,5 @@
 <?php
+namespace lant;
 class Hello
 {
     public function say()
