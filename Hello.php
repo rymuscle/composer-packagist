@@ -3,6 +3,6 @@ class Hello
 {
     public function say()
     {
-        echo "Hello World";
+        echo "Hello World, my name is master";
     }
 }
