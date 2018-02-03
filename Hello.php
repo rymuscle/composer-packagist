@@ -1,5 +1,5 @@
 <?php
-namespace packagist_test;
+namespace Lant;
 class Hello
 {
     public function say()
