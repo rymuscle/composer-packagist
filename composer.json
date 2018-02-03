@@ -7,10 +7,5 @@
       "email": "renyimin@haodai.net"
     }
   ],
-  "require": {},
-  "autoload": {
-    "psr-4": {
-      "Lant\\": "./"
-    }
-  }
+  "require": {}
 }
